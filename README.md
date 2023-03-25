@@ -1,5 +1,9 @@
 # fetchget
 
+# Team Members
+
+k191056 Anish Rajput, k191069 Syed Abeer Hussain, k191095 Maarij Abdul Qadir
+
 A new Flutter project.
 
 ## Getting Started
